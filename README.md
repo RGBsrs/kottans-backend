@@ -1,6 +1,6 @@
 # kottans-backend
 
-#1. Git and GitHub
+#1. Git and GitHub#
 1.1 The course How to use Git and GitHub
 *GitHub is a completely new thing for me:)
 *I'm surprised in branching and merging, and using cherry-pick at least.
